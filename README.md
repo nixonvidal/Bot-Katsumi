@@ -27,7 +27,7 @@ npm start
 ```
 ### 🌼 INSTALADOR - LINUX 🌼
 ```bash
-
+wget https://github.com/nixonvidal/Bot-Katsumi/raw/main/installbot.sh; chmod 777 installbot.sh; ./installbot.sh
 ```
 
 
